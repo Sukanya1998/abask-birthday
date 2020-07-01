@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Anuska-Birthday/precache-manifest.77c3dc00e920a1c60cf3f1797adf1d09.js"
+  "/Anuska-Birthday/precache-manifest.19f15562a23f627bc395b92b0bc3f943.js"
 );
 
 self.addEventListener('message', (event) => {

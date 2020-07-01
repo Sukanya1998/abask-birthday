@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e18f06a39eb44dbf7c9ea53bb88f8aec",
+    "revision": "00a9803900ac678e1faa79afef6eb6aa",
     "url": "/Anuska-Birthday/index.html"
   },
   {
-    "revision": "507b4d683e8e8ed1aac2",
+    "revision": "9522243102367d63a935",
     "url": "/Anuska-Birthday/static/css/main.7f5bf2ec.chunk.css"
   },
   {
-    "revision": "0a886b303ee6d67d76fd",
-    "url": "/Anuska-Birthday/static/js/2.b8166953.chunk.js"
+    "revision": "c7d99b12222cfa823f07",
+    "url": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js"
   },
   {
     "revision": "4ecd42502bdf997fb2c4f5b57652fefa",
-    "url": "/Anuska-Birthday/static/js/2.b8166953.chunk.js.LICENSE.txt"
+    "url": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "507b4d683e8e8ed1aac2",
-    "url": "/Anuska-Birthday/static/js/main.d8dd7419.chunk.js"
+    "revision": "9522243102367d63a935",
+    "url": "/Anuska-Birthday/static/js/main.8a82a3bb.chunk.js"
   },
   {
     "revision": "48c3204468ec0bfc0ff4",
