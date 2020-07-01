@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Anuska-Birthday/static/css/main.7f5bf2ec.chunk.css",
-    "main.js": "/Anuska-Birthday/static/js/main.953cd544.chunk.js",
-    "main.js.map": "/Anuska-Birthday/static/js/main.953cd544.chunk.js.map",
-    "runtime-main.js": "/Anuska-Birthday/static/js/runtime-main.54cbc7b4.js",
-    "runtime-main.js.map": "/Anuska-Birthday/static/js/runtime-main.54cbc7b4.js.map",
-    "static/js/2.4c41d057.chunk.js": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js",
-    "static/js/2.4c41d057.chunk.js.map": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js.map",
-    "index.html": "/Anuska-Birthday/index.html",
-    "precache-manifest.c2ef330cb08203d95c413894932ff78f.js": "/Anuska-Birthday/precache-manifest.c2ef330cb08203d95c413894932ff78f.js",
-    "service-worker.js": "/Anuska-Birthday/service-worker.js",
-    "static/css/main.7f5bf2ec.chunk.css.map": "/Anuska-Birthday/static/css/main.7f5bf2ec.chunk.css.map",
-    "static/js/2.4c41d057.chunk.js.LICENSE.txt": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js.LICENSE.txt",
-    "static/media/bg2.jpg": "/Anuska-Birthday/static/media/bg2.e2cb2a04.jpg",
-    "static/media/bg3.jpg": "/Anuska-Birthday/static/media/bg3.759e5c94.jpg",
-    "static/media/logo.svg": "/Anuska-Birthday/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/abask-birthday/static/css/main.7f5bf2ec.chunk.css",
+    "main.js": "/abask-birthday/static/js/main.5b9b988f.chunk.js",
+    "main.js.map": "/abask-birthday/static/js/main.5b9b988f.chunk.js.map",
+    "runtime-main.js": "/abask-birthday/static/js/runtime-main.e1618571.js",
+    "runtime-main.js.map": "/abask-birthday/static/js/runtime-main.e1618571.js.map",
+    "static/js/2.4c41d057.chunk.js": "/abask-birthday/static/js/2.4c41d057.chunk.js",
+    "static/js/2.4c41d057.chunk.js.map": "/abask-birthday/static/js/2.4c41d057.chunk.js.map",
+    "index.html": "/abask-birthday/index.html",
+    "precache-manifest.6eb3c5899a155122ba34673dbea4e0bd.js": "/abask-birthday/precache-manifest.6eb3c5899a155122ba34673dbea4e0bd.js",
+    "service-worker.js": "/abask-birthday/service-worker.js",
+    "static/css/main.7f5bf2ec.chunk.css.map": "/abask-birthday/static/css/main.7f5bf2ec.chunk.css.map",
+    "static/js/2.4c41d057.chunk.js.LICENSE.txt": "/abask-birthday/static/js/2.4c41d057.chunk.js.LICENSE.txt",
+    "static/media/bg2.jpg": "/abask-birthday/static/media/bg2.e2cb2a04.jpg",
+    "static/media/bg3.jpg": "/abask-birthday/static/media/bg3.759e5c94.jpg",
+    "static/media/logo.svg": "/abask-birthday/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.54cbc7b4.js",
+    "static/js/runtime-main.e1618571.js",
     "static/js/2.4c41d057.chunk.js",
     "static/css/main.7f5bf2ec.chunk.css",
-    "static/js/main.953cd544.chunk.js"
+    "static/js/main.5b9b988f.chunk.js"
   ]
 }
