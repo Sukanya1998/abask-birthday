@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Anuska-Birthday/static/css/main.7f5bf2ec.chunk.css",
-    "main.js": "/Anuska-Birthday/static/js/main.13d1f51c.chunk.js",
-    "main.js.map": "/Anuska-Birthday/static/js/main.13d1f51c.chunk.js.map",
+    "main.js": "/Anuska-Birthday/static/js/main.953cd544.chunk.js",
+    "main.js.map": "/Anuska-Birthday/static/js/main.953cd544.chunk.js.map",
     "runtime-main.js": "/Anuska-Birthday/static/js/runtime-main.54cbc7b4.js",
     "runtime-main.js.map": "/Anuska-Birthday/static/js/runtime-main.54cbc7b4.js.map",
     "static/js/2.4c41d057.chunk.js": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js",
     "static/js/2.4c41d057.chunk.js.map": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js.map",
     "index.html": "/Anuska-Birthday/index.html",
-    "precache-manifest.cb62a244ea48c64e303200601eb56ae3.js": "/Anuska-Birthday/precache-manifest.cb62a244ea48c64e303200601eb56ae3.js",
+    "precache-manifest.c2ef330cb08203d95c413894932ff78f.js": "/Anuska-Birthday/precache-manifest.c2ef330cb08203d95c413894932ff78f.js",
     "service-worker.js": "/Anuska-Birthday/service-worker.js",
     "static/css/main.7f5bf2ec.chunk.css.map": "/Anuska-Birthday/static/css/main.7f5bf2ec.chunk.css.map",
     "static/js/2.4c41d057.chunk.js.LICENSE.txt": "/Anuska-Birthday/static/js/2.4c41d057.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.54cbc7b4.js",
     "static/js/2.4c41d057.chunk.js",
     "static/css/main.7f5bf2ec.chunk.css",
-    "static/js/main.13d1f51c.chunk.js"
+    "static/js/main.953cd544.chunk.js"
   ]
 }
