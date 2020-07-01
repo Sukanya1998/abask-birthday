@@ -1,25 +1,35 @@
 {
   "files": {
     "main.css": "/abask-birthday/static/css/main.7f5bf2ec.chunk.css",
-    "main.js": "/abask-birthday/static/js/main.5b9b988f.chunk.js",
-    "main.js.map": "/abask-birthday/static/js/main.5b9b988f.chunk.js.map",
+    "main.js": "/abask-birthday/static/js/main.2132417c.chunk.js",
+    "main.js.map": "/abask-birthday/static/js/main.2132417c.chunk.js.map",
     "runtime-main.js": "/abask-birthday/static/js/runtime-main.e1618571.js",
     "runtime-main.js.map": "/abask-birthday/static/js/runtime-main.e1618571.js.map",
-    "static/js/2.4c41d057.chunk.js": "/abask-birthday/static/js/2.4c41d057.chunk.js",
-    "static/js/2.4c41d057.chunk.js.map": "/abask-birthday/static/js/2.4c41d057.chunk.js.map",
+    "static/js/2.a4928592.chunk.js": "/abask-birthday/static/js/2.a4928592.chunk.js",
+    "static/js/2.a4928592.chunk.js.map": "/abask-birthday/static/js/2.a4928592.chunk.js.map",
     "index.html": "/abask-birthday/index.html",
-    "precache-manifest.6eb3c5899a155122ba34673dbea4e0bd.js": "/abask-birthday/precache-manifest.6eb3c5899a155122ba34673dbea4e0bd.js",
+    "precache-manifest.e954a3b240126a5a3c00c727ac3647bb.js": "/abask-birthday/precache-manifest.e954a3b240126a5a3c00c727ac3647bb.js",
     "service-worker.js": "/abask-birthday/service-worker.js",
     "static/css/main.7f5bf2ec.chunk.css.map": "/abask-birthday/static/css/main.7f5bf2ec.chunk.css.map",
-    "static/js/2.4c41d057.chunk.js.LICENSE.txt": "/abask-birthday/static/js/2.4c41d057.chunk.js.LICENSE.txt",
+    "static/js/2.a4928592.chunk.js.LICENSE.txt": "/abask-birthday/static/js/2.a4928592.chunk.js.LICENSE.txt",
+    "static/media/AandS.jpg": "/abask-birthday/static/media/AandS.b4e2b07a.jpg",
+    "static/media/AandT.jpg": "/abask-birthday/static/media/AandT.379d94d6.jpg",
+    "static/media/AnuskaCloseup.jpg": "/abask-birthday/static/media/AnuskaCloseup.64c815a9.jpg",
+    "static/media/Drawing.jpg": "/abask-birthday/static/media/Drawing.bb511c3b.jpg",
+    "static/media/WeThreeFirstTime.jpg": "/abask-birthday/static/media/WeThreeFirstTime.65de4bb6.jpg",
+    "static/media/WeThreeatBSP.jpg": "/abask-birthday/static/media/WeThreeatBSP.3fc0414c.jpg",
+    "static/media/WeThreeatSP.jpg": "/abask-birthday/static/media/WeThreeatSP.b3c4e5f2.jpg",
+    "static/media/WithFamily.jpg": "/abask-birthday/static/media/WithFamily.70f94335.jpg",
+    "static/media/WithSahana.jpg": "/abask-birthday/static/media/WithSahana.e905e88b.jpg",
+    "static/media/anuskaBabyBela.jpg": "/abask-birthday/static/media/anuskaBabyBela.2d585344.jpg",
     "static/media/bg2.jpg": "/abask-birthday/static/media/bg2.e2cb2a04.jpg",
     "static/media/bg3.jpg": "/abask-birthday/static/media/bg3.759e5c94.jpg",
     "static/media/logo.svg": "/abask-birthday/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e1618571.js",
-    "static/js/2.4c41d057.chunk.js",
+    "static/js/2.a4928592.chunk.js",
     "static/css/main.7f5bf2ec.chunk.css",
-    "static/js/main.5b9b988f.chunk.js"
+    "static/js/main.2132417c.chunk.js"
   ]
 }
